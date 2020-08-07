@@ -1,4 +1,4 @@
-# validation10sprintYandex
+# https://github.com/Throwzy/validation10sprintYandex
 This is 10th sprint or whoever reads this shit
 Author: Vladyslav Lopanov
 Version: 0.0 (raw)
