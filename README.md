@@ -1,5 +1,5 @@
 # https://throwzy.github.io/validation10sprintYandex/
-1.This is 10th sprint or whoever reads this shit
+1. This is 10th sprint or whoever reads this shit
 2.Author: Vladyslav Lopanov
 3.Version: 0.0.3 (stable)
 4.Для чего этот проект? - Форма валидации, проектная работа 10.
