@@ -7,7 +7,3 @@
 ### Версия:
 * 0.0.4 (stable)
 [Ссылка на готовый проект](https://throwzy.github.io/validation10sprintYandex/)
-<<<<<<< HEAD
-
-=======
->>>>>>> develop
