@@ -1,7 +1,9 @@
-# https://github.com/Throwzy/validation10sprintYandex
-This is 10th sprint or whoever reads this shit
-Author: Vladyslav Lopanov
-Version: 0.0 (raw)
-Для чего этот проект? - Форма валидации, проектная работа 10.
-В проекте использовались: JS,CSS,HTML,GIT;
-Рабочая версия: https://github.com/Throwzy/validation10sprintYandex
+# Проектная работа № 10 (Yandex Beб-разработчик)
+## Задачи:
+* Написание регулярных выражений для формы.
+## Технологии использованные при создании проекта: CSS, HTML , GIT.
+### Автор работы:
+* Vladyslav Lopanov
+### Версия:
+* 0.0.3 (stable)
+[Ссылка на готовый проект](https://throwzy.github.io/validation10sprintYandex/)
